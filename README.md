@@ -1,5 +1,7 @@
 <div id="top"></div>
 
+- [React Terminology](/dictionary.md)
+
 # React
 
 - [Setup](/setup.md)
