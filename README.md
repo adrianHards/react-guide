@@ -1,6 +1,6 @@
 <div id="top"></div>
 
-- [React Terminology](/dictionary.md)
+[Terminology](/dictionary.md)
 
 # [React](https://reactjs.org/docs/getting-started.html)
 
