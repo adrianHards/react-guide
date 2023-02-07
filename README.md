@@ -14,6 +14,7 @@ When a change occurs in a React component, it updates the corresponding Virtual 
 
 ## [React Native](https://reactnative.dev/docs/getting-started)
 
+React Native is an open-source framework for building mobile applications using JavaScript and React. It allows developers to build native mobile apps for iOS and Android platforms using a single codebase, rather than writing separate code for each platform. 
 ---
 
 <p align="center">
